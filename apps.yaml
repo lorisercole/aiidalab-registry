@@ -1,3 +1,16 @@
+aurora:
+  releases:
+    - url: 'git+https://github.com/epfl-theos/aurora-app@aiidalab'
+      metadata:
+        categories:
+        - utilities
+        logo: https://raw.githubusercontent.com/aiidalab/aiidalab-widgets-base/master/miscellaneous/logos/aiidalab.png
+        title: Aurora BIG-MAP app
+        description: An AiiDAlab application for the Aurora BIG-MAP Stakeholder initiative.
+        authors: Loris Ercole
+        external_url: https://github.com/epfl-theos/aurora-app
+        documentation_url: https://github.com/epfl-theos/aurora-app#readme
+
 aiidalab-lsmo:
   releases:
     - url: 'git+https://github.com/lsmo-epfl/aiidalab-epfl-lsmo.git@master:'
